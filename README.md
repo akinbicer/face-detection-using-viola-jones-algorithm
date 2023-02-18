@@ -24,6 +24,5 @@ figure, imshow(resultImage);
 
 ![App Screenshot](https://github.com/akinbicer/face-detection-using-viola-jones-algorithm/raw/main/images/Test1-Output.jpg)
 
-## Feedback
-
-If you have any feedback, please reach out to us at akin.bicer@outlook.com.tr
+## Issues, Feature Requests or Support
+Please use the [New Issue](https://github.com/akinbicer/face-detection-using-viola-jones-algorithm/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
